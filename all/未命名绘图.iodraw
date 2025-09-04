@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-47" value="上半部分AWStacking模型构建" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;dashed=1;strokeColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="-960" width="1533" height="1030" as="geometry" />
+          <mxGeometry x="720" y="-640" width="1533" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-48" value="训练集输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3PTJTd1I5DqYrvkVYaBe-47" vertex="1">
           <mxGeometry x="50.69590222861251" y="400.55555555555554" width="154.2918763479511" height="84.96632996632997" as="geometry" />
