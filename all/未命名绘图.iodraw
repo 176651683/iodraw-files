@@ -55,10 +55,10 @@
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-24" value="第5折验证集&#xa;的R²分数" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" parent="3PTJTd1I5DqYrvkVYaBe-9" vertex="1">
           <mxGeometry x="452.36270753512133" y="701.5640599001664" width="153.40996168582376" height="91.14808652246256" as="geometry" />
         </mxCell>
-        <mxCell id="3PTJTd1I5DqYrvkVYaBe-25" value="根据5折验证集的R²分数&#xa;对测试集预测结果加权平均" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="3PTJTd1I5DqYrvkVYaBe-9" vertex="1">
+        <mxCell id="3PTJTd1I5DqYrvkVYaBe-25" value="根据5折验证集的R²分数&#xa;对测试集预测结果加权平均" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="3PTJTd1I5DqYrvkVYaBe-9" vertex="1">
           <mxGeometry x="670" y="375.64059900166393" width="390" height="99.4342762063228" as="geometry" />
         </mxCell>
-        <mxCell id="3PTJTd1I5DqYrvkVYaBe-28" value="测试集的预测结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="3PTJTd1I5DqYrvkVYaBe-9" vertex="1">
+        <mxCell id="3PTJTd1I5DqYrvkVYaBe-28" value="测试集的预测结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="3PTJTd1I5DqYrvkVYaBe-9" vertex="1">
           <mxGeometry x="1223" y="376.81" width="231.48" height="98.48" as="geometry" />
         </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" parent="3PTJTd1I5DqYrvkVYaBe-9" source="3PTJTd1I5DqYrvkVYaBe-10" target="3PTJTd1I5DqYrvkVYaBe-11" edge="1">
