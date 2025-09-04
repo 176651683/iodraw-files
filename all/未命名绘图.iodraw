@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cSm7wAMhnVAGRrVSTRSS-41" value="&#xa;       下半部分5折交叉验证流程" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;dashed=1;strokeColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="630" width="1540" height="830" as="geometry" />
+          <mxGeometry x="-190" y="790" width="1540" height="830" as="geometry" />
         </mxCell>
         <mxCell id="cSm7wAMhnVAGRrVSTRSS-42" value="第1折训练" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="cSm7wAMhnVAGRrVSTRSS-41">
           <mxGeometry x="45.23627075351214" y="71.81364392678869" width="129.80842911877394" height="67.67054908485858" as="geometry" />
