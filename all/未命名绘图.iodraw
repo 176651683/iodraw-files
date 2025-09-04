@@ -126,38 +126,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSm7wAMhnVAGRrVSTRSS-104" value="测试集" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="cSm7wAMhnVAGRrVSTRSS-80" target="cSm7wAMhnVAGRrVSTRSS-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="623" y="426" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSm7wAMhnVAGRrVSTRSS-106" value="测试集" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0.99;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="cSm7wAMhnVAGRrVSTRSS-81" target="cSm7wAMhnVAGRrVSTRSS-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="623" y="507" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSm7wAMhnVAGRrVSTRSS-107" value="训练集" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0.01;entryX=0.29;entryY=0.99;rounded=0;" edge="1" parent="1" source="cSm7wAMhnVAGRrVSTRSS-82" target="cSm7wAMhnVAGRrVSTRSS-84">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="623" y="242" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cSm7wAMhnVAGRrVSTRSS-108" value="测试集" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.16;entryY=0.99;rounded=0;" edge="1" parent="1" source="cSm7wAMhnVAGRrVSTRSS-82" target="cSm7wAMhnVAGRrVSTRSS-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="623" y="577" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSm7wAMhnVAGRrVSTRSS-109" value="训练集" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0.38;entryY=0.99;rounded=0;" edge="1" parent="1" source="cSm7wAMhnVAGRrVSTRSS-83" target="cSm7wAMhnVAGRrVSTRSS-84">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="623" y="313" />
             </Array>
           </mxGeometry>
         </mxCell>
