@@ -307,7 +307,7 @@
             <mxPoint x="963" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XT__69pz5Kq5dhpL3pib-101" value="元学习器的训练集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
+        <mxCell id="XT__69pz5Kq5dhpL3pib-101" value="元学习器的训练集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
           <mxGeometry x="853" y="339" width="167" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XT__69pz5Kq5dhpL3pib-210" value="元学习器的测试集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
