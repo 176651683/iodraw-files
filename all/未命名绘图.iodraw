@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-47" value="上半部分AWStacking模型构建" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;dashed=1;strokeColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-413" y="-999" width="1533" height="1030" as="geometry" />
+          <mxGeometry x="-460" y="-1140" width="1533" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-48" value="训练集输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3PTJTd1I5DqYrvkVYaBe-47" vertex="1">
           <mxGeometry x="50.69590222861251" y="400.55555555555554" width="154.2918763479511" height="84.96632996632997" as="geometry" />
@@ -355,7 +355,7 @@
             <mxPoint x="360.4" y="79.56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XT__69pz5Kq5dhpL3pib-219" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XT__69pz5Kq5dhpL3pib-219" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="XT__69pz5Kq5dhpL3pib-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="-450" as="sourcePoint" />
             <mxPoint x="490" y="-500" as="targetPoint" />
