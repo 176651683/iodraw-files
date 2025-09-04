@@ -417,7 +417,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XT__69pz5Kq5dhpL3pib-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;训练集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XT__69pz5Kq5dhpL3pib-6">
+        <mxCell id="XT__69pz5Kq5dhpL3pib-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;训练集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="XT__69pz5Kq5dhpL3pib-6">
           <mxGeometry x="533" y="80" width="167" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XT__69pz5Kq5dhpL3pib-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XT__69pz5Kq5dhpL3pib-6">
