@@ -174,6 +174,9 @@
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-54" value="测试集输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3PTJTd1I5DqYrvkVYaBe-47" vertex="1">
           <mxGeometry x="50.69590222861251" y="572.2222222222223" width="154.2918763479511" height="84.96632996632997" as="geometry" />
         </mxCell>
+        <mxCell id="3PTJTd1I5DqYrvkVYaBe-59" value="SHAP可解释分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" parent="3PTJTd1I5DqYrvkVYaBe-47" vertex="1">
+          <mxGeometry x="1305.9705248023006" y="487.25589225589226" width="195.06901509705247" height="84.96632996632997" as="geometry" />
+        </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.01;entryX=0.12;entryY=0.01;rounded=0;" parent="3PTJTd1I5DqYrvkVYaBe-47" source="3PTJTd1I5DqYrvkVYaBe-48" target="3PTJTd1I5DqYrvkVYaBe-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -244,11 +247,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3PTJTd1I5DqYrvkVYaBe-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" parent="3PTJTd1I5DqYrvkVYaBe-47" edge="1">
+        <mxCell id="3PTJTd1I5DqYrvkVYaBe-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" parent="3PTJTd1I5DqYrvkVYaBe-47" target="3PTJTd1I5DqYrvkVYaBe-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1223.3141624730415" y="528.8893939393943" as="sourcePoint" />
-            <mxPoint x="1305.9705248023006" y="528.889393939394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XT__69pz5Kq5dhpL3pib-5" value="训练集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
@@ -351,6 +353,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="359.9999999999999" y="-19.999999999999943" as="sourcePoint" />
             <mxPoint x="360.4" y="79.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XT__69pz5Kq5dhpL3pib-219" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-450" as="sourcePoint" />
+            <mxPoint x="490" y="-500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
