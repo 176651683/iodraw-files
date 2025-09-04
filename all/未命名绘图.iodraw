@@ -310,7 +310,7 @@
         <mxCell id="XT__69pz5Kq5dhpL3pib-101" value="元学习器的训练集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
           <mxGeometry x="853" y="339" width="167" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XT__69pz5Kq5dhpL3pib-210" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
+        <mxCell id="XT__69pz5Kq5dhpL3pib-210" value="元学习器的测试集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
           <mxGeometry x="853" y="540" width="167" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XT__69pz5Kq5dhpL3pib-211" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="3PTJTd1I5DqYrvkVYaBe-47" source="3PTJTd1I5DqYrvkVYaBe-51" target="XT__69pz5Kq5dhpL3pib-88">
