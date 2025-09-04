@@ -172,7 +172,7 @@
           <mxGeometry x="50.69590222861251" y="572.2222222222223" width="154.2918763479511" height="84.96632996632997" as="geometry" />
         </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-59" value="SHAP可解释分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" parent="3PTJTd1I5DqYrvkVYaBe-47" vertex="1">
-          <mxGeometry x="1320" y="690" width="121.57" height="84.97" as="geometry" />
+          <mxGeometry x="1320" y="690" width="160" height="84.97" as="geometry" />
         </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.01;entryX=0.12;entryY=0.01;rounded=0;" parent="3PTJTd1I5DqYrvkVYaBe-47" source="3PTJTd1I5DqYrvkVYaBe-48" target="3PTJTd1I5DqYrvkVYaBe-49" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -426,6 +426,9 @@
             <mxPoint x="359.9999999999999" y="-19.999999999999943" as="sourcePoint" />
             <mxPoint x="360.4" y="79.56" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XT__69pz5Kq5dhpL3pib-235" value="SHAP可解释分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="933.5" y="-310" width="160" height="84.97" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
