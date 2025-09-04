@@ -400,7 +400,7 @@
             <mxPoint x="676.5" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XT__69pz5Kq5dhpL3pib-231" value="元学习器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
+        <mxCell id="XT__69pz5Kq5dhpL3pib-231" value="元学习器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="3PTJTd1I5DqYrvkVYaBe-47">
           <mxGeometry x="1126.5" y="427.26" width="193.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3PTJTd1I5DqYrvkVYaBe-87" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.7;exitY=0.748;exitDx=0;exitDy=0;exitPerimeter=0;width=20;" parent="1" edge="1">
